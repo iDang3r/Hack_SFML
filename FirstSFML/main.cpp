@@ -151,7 +151,7 @@ int main(int, char const**)
             
             if (!hacked) {
                 
-                solve();
+//                solve();
                 
                 hacked = true;
             }
